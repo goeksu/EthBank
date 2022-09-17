@@ -1,5 +1,5 @@
 # EthBank
-Basic Bank Contract on Ethereum network able to deposit, transfer, withdraw ethers.
+Basic Bank Contract on Ethereum Rinkeby Testnet able to deposit, transfer, withdraw ethers.
 0x92ba5e60ec6887dd6acddc77d022cc3b14835391
 
 You can check deployed contract on etherscan.
